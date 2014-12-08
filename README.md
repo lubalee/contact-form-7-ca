@@ -5,8 +5,8 @@ Contact Form 7 translation to Catalan
 
 Traducció del Contact Form 7 al català
 
-  Author:
+    Author:
 
-  luba lee
-  hola@lubalee.net
-  http://lubalee.net
+    luba lee
+    hola@lubalee.net
+    http://lubalee.net
