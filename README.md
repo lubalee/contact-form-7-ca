@@ -9,4 +9,4 @@ Traducció del Contact Form 7 al català
 
     luba lee
     hola@lubalee.net
-    http://lubalee.net
+    <a href="http://lubalee.net">http://lubalee.net</a>
