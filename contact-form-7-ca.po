@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Contact Form 7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-20 18:49+0900\n"
-"PO-Revision-Date: 2014-12-08 20:56+0100\n"
+"PO-Revision-Date: 2014-12-09 12:33+0100\n"
 "Last-Translator: luba lee <hola@lubalee.net>\n"
 "Language-Team: luba lee <hola@lubalee.net>\n"
 "Language: Catalan (ca)\n"
@@ -276,7 +276,7 @@ msgstr "Utilitzar contingut HTML"
 
 #: contact-form-7/admin/includes/meta-boxes.php:80
 msgid "Message body:"
-msgstr "Cos del missatge:"
+msgstr "Missatge:"
 
 #: contact-form-7/includes/classes.php:28
 msgid "Contact Form"
@@ -761,7 +761,7 @@ msgstr "Color de fons"
 
 #: contact-form-7/modules/captcha.php:226
 msgid "Image size"
-msgstr "Mida imatge"
+msgstr "Tamany imatge"
 
 #: contact-form-7/modules/captcha.php:227
 msgid "Small"
